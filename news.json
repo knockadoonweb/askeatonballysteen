@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to Our New Parish Website",
+    "date": "2025-06-01",
+    "category": "Parish News",
+    "excerpt": "We are delighted to launch the new website for Askeaton and Ballysteen Parish. Here you will find all the information you need about Mass times, parish events, and more.",
+    "body": "We are delighted to welcome you to the new Askeaton and Ballysteen Parish website. This website has been developed to help keep our parish community informed and connected. You will find Mass times, details on upcoming events, the liturgical calendar, safeguarding information, and much more.\n\nWe hope this website will be a useful resource for parishioners and visitors alike. If you have any suggestions or news items you would like to share, please contact the Parish Office.\n\nAd Jesum per Mariam.",
+    "image": "https://askeatonballysteen.ie/wp-content/uploads/2025/09/Church1.png"
+  },
+  {
+    "id": "2",
+    "title": "Corpus Christi Procession — All Welcome",
+    "date": "2025-05-20",
+    "category": "Events",
+    "excerpt": "This year's Corpus Christi Procession will take place on Sunday, 22nd June, following the 11:00 am Mass at St. Mary's Church, Askeaton. All parishioners are warmly invited to attend.",
+    "body": "This year's Corpus Christi Procession will take place on Sunday, 22nd June, beginning immediately after the 11:00 am Mass at St. Mary's Church, Askeaton.\n\nThe procession will travel through the town, concluding with Benediction of the Blessed Sacrament. All parishioners, families, and friends are warmly invited to take part in this beautiful public expression of our faith.\n\nThe Parish Council requests that individuals and families consider decorating their doorsteps or windows along the procession route."
+  },
+  {
+    "id": "3",
+    "title": "First Holy Communion — St. Mary's National School",
+    "date": "2025-05-10",
+    "category": "Sacraments",
+    "excerpt": "Congratulations to the boys and girls of St. Mary's N.S. who received the Sacrament of First Holy Communion on Saturday, 10th May. We remember them in our prayers.",
+    "body": "Congratulations to all the children of St. Mary's National School, Askeaton, who received the Sacrament of First Holy Communion on Saturday, 10th May.\n\nThis is a momentous occasion in the faith journey of each child, and we extend our warmest congratulations to them, their families, and their teachers. We ask the Lord to bless them abundantly and to sustain them in a life of faith.\n\nWe also thank Fr. O'Brien and the school staff for their wonderful preparation of the children."
+  },
+  {
+    "id": "4",
+    "title": "Cemetery Sunday — Ballysteen",
+    "date": "2025-04-28",
+    "category": "Upcoming",
+    "excerpt": "Cemetery Sunday at Ballysteen will take place on the first Sunday of August. Mass will be celebrated at the graveside at 3:00 pm. All are welcome to come and pray for our faithful departed.",
+    "body": "Cemetery Sunday at Ballysteen graveyard will take place on the first Sunday of August at 3:00 pm.\n\nMass will be celebrated at the graveside, and we invite all parishioners to come and pray for the repose of the souls of all those buried there, particularly our own family members and friends who have gone before us.\n\nPlease bring your own seating if needed. In the event of severe weather, the celebration will move to the church."
+  }
+]
